@@ -111,6 +111,7 @@
 
 ## 📁 项目结构
 
+```
 DX12Hook_Kiero/
 ├── src/                    # 源码目录
 │   ├── dllmain.cpp         # DLL 入口点
@@ -124,6 +125,7 @@ DX12Hook_Kiero/
 ├── DX12Hook_Kiero.sln      # Visual Studio 解决方案
 ├── README.md               # 本文档
 └── LICENSE                 # GPLv3 许可证
+```
 
 ---
 
